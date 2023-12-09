@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'caf';
+  src:  url('../fonts/caf.eot?teatas');
+  src:  url('../fonts/caf.eot?teatas#iefix') format('embedded-opentype'),
+    url('../fonts/caf.ttf?teatas') format('truetype'),
+    url('../fonts/caf.woff?teatas') format('woff'),
+    url('../fonts/caf.svg?teatas#caf') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+li#menu-posts-caf_posts .dashicons-layout:before {
+  content: "\e900";
+  color: rgb(167, 170, 173);
+ font-family: 'caf' !important;
+}

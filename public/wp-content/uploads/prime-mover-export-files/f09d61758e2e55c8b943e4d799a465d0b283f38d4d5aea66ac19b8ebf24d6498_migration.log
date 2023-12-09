@@ -1,0 +1,728 @@
+2023-12-09 16:10:48 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteImportId method: Deleted import ID:  4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteExportId method: Deleted export ID:  4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteExportResultId method: Deleted export result ID: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteImportResultId method: Deleted import result ID:  import_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteDownloadResultId method: Deleted download result ID: download_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteDownloadSizeId method: Deleted download size ID: download_size_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteDownloadTmpFileId method: Deleted download tmp file ID: download_tmp_path_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteUploadDropBoxSize method: Deleted dropbox upload size ID: dropboxupload_size_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteUploadGdriveSize method: Deleted GDrive upload size ID: gdriveupload_size_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:48 => Logged import event for blog ID 0 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, boot);
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker count: 1 BOOT-UP EVENT -DIFF MODE: 
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Local server: 1
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Starting export);
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Creating temp folder);
+2023-12-09 16:10:48 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::createTempfolderForThisSiteExport method: PEAK MEMORY USAGE : 4.6905059814453 MiB
+2023-12-09 16:10:49 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:49 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:49 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:49 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Getting third party hooks..);
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Dumping database);
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverMultilingualCompat::initializeCharSetParameters method: Logging initialized charsets and collate before MySQLdump: 
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverMultilingualCompat::initializeCharSetParameters method: Array
+(
+    [target_charset] => utf8mb4
+    [charset_same] => 1
+    [source_collate] => utf8mb4_unicode_520_ci
+    [sourcecollate_equivalence] => Array
+        (
+        )
+
+    [sourcecharset_masterlists] => Array
+        (
+        )
+
+)
+
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::dumpDbForExport method: Starting MySQLdump using PHP
+2023-12-09 16:10:51 => Logged export event for blog ID 0 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::executeDumpUsingPHP method: mysql:host=localhost;port=10017;dbname=local
+2023-12-09 16:10:51 => Logged export event for blog ID 0 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::executeDumpUsingPHP method: PHPDump Batch Size: 5000
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::triggerMySQLDumpPHP method: MySQLdump settings: 
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::triggerMySQLDumpPHP method: Array
+(
+    [include-tables] => Array
+        (
+            [0] => wp_commentmeta
+        )
+
+    [exclude-tables] => Array
+        (
+        )
+
+    [compress] => None
+    [init_commands] => Array
+        (
+        )
+
+    [no-data] => Array
+        (
+        )
+
+    [reset-auto-increment] => 
+    [add-drop-database] => 
+    [add-drop-table] => 1
+    [add-drop-trigger] => 1
+    [add-locks] => 1
+    [complete-insert] => 
+    [databases] => 
+    [default-character-set] => utf8mb4
+    [disable-keys] => 1
+    [extended-insert] => 1
+    [events] => 
+    [hex-blob] => 
+    [insert-ignore] => 
+    [no-autocommit] => 
+    [no-create-info] => 
+    [lock-tables] => 1
+    [routines] => 
+    [single-transaction] => 1
+    [skip-triggers] => 
+    [skip-tz-utc] => 
+    [skip-comments] => 
+    [skip-dump-date] => 
+    [skip-definer] => 
+    [where] => 
+)
+
+2023-12-09 16:10:51 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::dumpDbForExport method: PEAK MEMORY USAGE : 6.8608016967773 MiB
+2023-12-09 16:10:52 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:52 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:52 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:52 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Archiving database..0B bytes done.);
+2023-12-09 16:10:52 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::zipDbDump method: PEAK MEMORY USAGE : 4.3995056152344 MiB
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Generating export files list..);
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverSystemUtilities::excludeCorePrimeMoverDirectoriesInMediaExportLists method: prime_mover_excluded_media_folders filter OUTPUT:
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverSystemUtilities::excludeCorePrimeMoverDirectoriesInMediaExportLists method: Array
+(
+    [0] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files
+    [1] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-lock-files
+    [2] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-tmp-downloads
+)
+
+2023-12-09 16:10:53 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generateMediaFilesList method: PEAK MEMORY USAGE : 4.3991088867188 MiB
+2023-12-09 16:10:54 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:54 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:54 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:54 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Archiving media, starting.);
+2023-12-09 16:10:54 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\archiver\PrimeMoverArchiver::addDirectory method: End of file is reach for file list. Closing.
+2023-12-09 16:10:54 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::copyMediaFiles method: PEAK MEMORY USAGE : 4.4036331176758 MiB
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: common_progress_processor: Validation success
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker count: 2
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker progress non-cached request
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: getSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0) = Archiving media, starting.
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Getting latest progress: Archiving media, starting. with process id: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:55 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:56 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:56 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:56 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootPrintKeys method: Footprint keys for validation :
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootPrintKeys method: Array
+(
+    [0] => plugins
+    [1] => stylesheet
+    [2] => template
+    [3] => using_child_theme
+    [4] => site_url
+    [5] => wp_root
+    [6] => db_prefix
+    [7] => scheme
+    [8] => upload_information_path
+    [9] => upload_information_url
+    [10] => prime_mover_plugin_version
+)
+
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootprintConfiguration method: Custom log for site footprint data before check:
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootprintConfiguration method: Array
+(
+    [plugins] => Array
+        (
+            [prime-mover/prime-mover.php] => 1.8.6
+            [category-ajax-filter/category-ajax-filter.php] => 2.7.2.1
+            [contact-form-7/wp-contact-form-7.php] => 5.8.3
+            [duplicate-post/duplicate-post.php] => 4.5
+            [filter-everything/filter-everything.php] => 1.7.15
+            [post-types-order/post-types-order.php] => 2.1.1
+            [strong-testimonials/strong-testimonials.php] => 3.1.11
+            [svg-support/svg-support.php] => 2.5.5
+        )
+
+    [stylesheet] => Array
+        (
+            [blog-site] => 1.0.0
+        )
+
+    [template] => Array
+        (
+            [blog-site] => 1.0.0
+        )
+
+    [using_child_theme] => no
+    [site_url] => blog-site.local
+    [wp_root] => C:/Users/user/Local Sites/blog-site/app/public/
+    [db_prefix] => awtmkzu_
+    [scheme] => http://
+    [upload_information_path] => C:\Users\user\Local Sites\blog-site\app\public/wp-content/uploads
+    [upload_information_url] => http://blog-site.local/wp-content/uploads
+    [prime_mover_plugin_version] => 1.8.6
+)
+
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootprintConfiguration method: Footprint data validity is: 1
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootprintConfiguration method: Custom log for site footprint data after check:
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\compatibility\PrimeMoverCompatibility::primeMoverGenerateFootprintConfiguration method: Array
+(
+    [plugins] => Array
+        (
+            [prime-mover/prime-mover.php] => 1.8.6
+            [category-ajax-filter/category-ajax-filter.php] => 2.7.2.1
+            [contact-form-7/wp-contact-form-7.php] => 5.8.3
+            [duplicate-post/duplicate-post.php] => 4.5
+            [filter-everything/filter-everything.php] => 1.7.15
+            [post-types-order/post-types-order.php] => 2.1.1
+            [strong-testimonials/strong-testimonials.php] => 3.1.11
+            [svg-support/svg-support.php] => 2.5.5
+        )
+
+    [stylesheet] => Array
+        (
+            [blog-site] => 1.0.0
+        )
+
+    [template] => Array
+        (
+            [blog-site] => 1.0.0
+        )
+
+    [using_child_theme] => no
+    [site_url] => blog-site.local
+    [wp_root] => C:/Users/user/Local Sites/blog-site/app/public/
+    [db_prefix] => awtmkzu_
+    [scheme] => http://
+    [upload_information_path] => C:\Users\user\Local Sites\blog-site\app\public/wp-content/uploads
+    [upload_information_url] => http://blog-site.local/wp-content/uploads
+    [prime_mover_plugin_version] => 1.8.6
+)
+
+2023-12-09 16:10:58 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Generating config);
+2023-12-09 16:10:59 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:10:59 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:10:59 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:10:59 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Exporting user meta keys..);
+2023-12-09 16:10:59 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::generateUserMetaKeysToAdjust method: Array
+(
+    [multisite_export_options] => complete_export_mode
+    [prime_mover_export_targetid] => 1
+    [prime_mover_export_type] => single-site-export
+    [export_start_time] => 1702138248.8142
+    [prime_mover_is_super_db_user] => 1
+    [prime_mover_db_dump_size] => 5000
+    [original_blogid] => 1
+    [enable_db_encryption] => 
+    [temp_folder_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/
+    [target_zip_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1.wprime
+    [wprime_readme_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/wprime-readme.txt
+    [peak_memory_usage_log] => Array
+        (
+            [0] => 4918352
+            [1] => 7194072
+            [2] => 4613216
+            [3] => 4612800
+            [4] => 4617544
+        )
+
+    [ongoing_export] => 1
+    [next_method] => generateUserMetaKeysToAdjust
+    [current_method] => generateExportFootprintConfig
+    [mayberandomizedbprefix] => 1
+    [randomizedbprefixstring] => awtmkzu_
+    [completed_target_dump_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/1.sql
+    [total_media_files] => 43
+    [media_export] => 1
+    [encrypted_media] => 
+    [wprime_media_files_count] => 43
+    [export_system_footprint] => Array
+        (
+            [plugins] => Array
+                (
+                    [prime-mover/prime-mover.php] => 1.8.6
+                    [category-ajax-filter/category-ajax-filter.php] => 2.7.2.1
+                    [contact-form-7/wp-contact-form-7.php] => 5.8.3
+                    [duplicate-post/duplicate-post.php] => 4.5
+                    [filter-everything/filter-everything.php] => 1.7.15
+                    [post-types-order/post-types-order.php] => 2.1.1
+                    [strong-testimonials/strong-testimonials.php] => 3.1.11
+                    [svg-support/svg-support.php] => 2.5.5
+                    [prime-mover-pro/prime-mover.php] => 1.8.6
+                )
+
+            [stylesheet] => Array
+                (
+                    [blog-site] => 1.0.0
+                )
+
+            [template] => Array
+                (
+                    [blog-site] => 1.0.0
+                )
+
+            [using_child_theme] => no
+            [site_url] => blog-site.local
+            [wp_root] => C:/Users/user/Local Sites/blog-site/app/public/
+            [db_prefix] => awtmkzu_
+            [scheme] => http://
+            [upload_information_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads
+            [upload_information_url] => http://blog-site.local/wp-content/uploads
+            [prime_mover_plugin_version] => 1.8.6
+            [exported_db_tables] => Array
+                (
+                    [0] => awtmkzu_commentmeta
+                    [1] => awtmkzu_comments
+                    [2] => awtmkzu_links
+                    [3] => awtmkzu_options
+                    [4] => awtmkzu_postmeta
+                    [5] => awtmkzu_posts
+                    [6] => awtmkzu_strong_views
+                    [7] => awtmkzu_term_relationships
+                    [8] => awtmkzu_term_taxonomy
+                    [9] => awtmkzu_termmeta
+                    [10] => awtmkzu_terms
+                )
+
+            [wprime_media_files_count] => 43
+            [site_title] => blog-site
+            [source_content_url] => http://blog-site.local/wp-content
+            [source_content_dir] => C:/Users/user/Local Sites/blog-site/app/public/wp-content
+        )
+
+    [usermeta_keys_export_adjust] => Array
+        (
+            [wp_capabilities] => awtmkzu_capabilities
+            [wp_dashboard_quick_press_last_post_id] => awtmkzu_dashboard_quick_press_last_post_id
+            [wp_persisted_preferences] => awtmkzu_persisted_preferences
+            [wp_user_level] => awtmkzu_user_level
+            [wp_user-settings] => awtmkzu_user-settings
+            [wp_user-settings-time] => awtmkzu_user-settings-time
+        )
+
+)
+
+2023-12-09 16:11:00 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:00 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:00 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:00 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Exporting users.. );
+2023-12-09 16:11:00 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverUsers::doCleanOffRet method: Done user export executing prime_mover_after_user_export hook.
+2023-12-09 16:11:00 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverUsers::doCleanOffRet method: Done user export, exiting method.
+2023-12-09 16:11:01 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:01 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:01 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:01 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Archiving user export files..);
+2023-12-09 16:11:01 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverExporter::maybeAddUsersExportFileToArchive method: Array
+(
+    [multisite_export_options] => complete_export_mode
+    [prime_mover_export_targetid] => 1
+    [prime_mover_export_type] => single-site-export
+    [export_start_time] => 1702138248.8142
+    [prime_mover_is_super_db_user] => 1
+    [prime_mover_db_dump_size] => 5000
+    [original_blogid] => 1
+    [enable_db_encryption] => 
+    [temp_folder_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/
+    [target_zip_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1.wprime
+    [wprime_readme_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/wprime-readme.txt
+    [peak_memory_usage_log] => Array
+        (
+            [0] => 4918352
+            [1] => 7194072
+            [2] => 4613216
+            [3] => 4612800
+            [4] => 4617544
+        )
+
+    [ongoing_export] => 1
+    [next_method] => maybeAddUsersExportFileToArchive
+    [current_method] => exportUsers
+    [mayberandomizedbprefix] => 1
+    [randomizedbprefixstring] => awtmkzu_
+    [completed_target_dump_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/1.sql
+    [total_media_files] => 43
+    [media_export] => 1
+    [encrypted_media] => 
+    [wprime_media_files_count] => 43
+    [export_system_footprint] => Array
+        (
+            [plugins] => Array
+                (
+                    [prime-mover/prime-mover.php] => 1.8.6
+                    [category-ajax-filter/category-ajax-filter.php] => 2.7.2.1
+                    [contact-form-7/wp-contact-form-7.php] => 5.8.3
+                    [duplicate-post/duplicate-post.php] => 4.5
+                    [filter-everything/filter-everything.php] => 1.7.15
+                    [post-types-order/post-types-order.php] => 2.1.1
+                    [strong-testimonials/strong-testimonials.php] => 3.1.11
+                    [svg-support/svg-support.php] => 2.5.5
+                    [prime-mover-pro/prime-mover.php] => 1.8.6
+                )
+
+            [stylesheet] => Array
+                (
+                    [blog-site] => 1.0.0
+                )
+
+            [template] => Array
+                (
+                    [blog-site] => 1.0.0
+                )
+
+            [using_child_theme] => no
+            [site_url] => blog-site.local
+            [wp_root] => C:/Users/user/Local Sites/blog-site/app/public/
+            [db_prefix] => awtmkzu_
+            [scheme] => http://
+            [upload_information_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads
+            [upload_information_url] => http://blog-site.local/wp-content/uploads
+            [prime_mover_plugin_version] => 1.8.6
+            [exported_db_tables] => Array
+                (
+                    [0] => awtmkzu_commentmeta
+                    [1] => awtmkzu_comments
+                    [2] => awtmkzu_links
+                    [3] => awtmkzu_options
+                    [4] => awtmkzu_postmeta
+                    [5] => awtmkzu_posts
+                    [6] => awtmkzu_strong_views
+                    [7] => awtmkzu_term_relationships
+                    [8] => awtmkzu_term_taxonomy
+                    [9] => awtmkzu_termmeta
+                    [10] => awtmkzu_terms
+                )
+
+            [wprime_media_files_count] => 43
+            [site_title] => blog-site
+            [source_content_url] => http://blog-site.local/wp-content
+            [source_content_dir] => C:/Users/user/Local Sites/blog-site/app/public/wp-content
+        )
+
+    [usermeta_keys_export_adjust] => Array
+        (
+            [wp_capabilities] => awtmkzu_capabilities
+            [wp_dashboard_quick_press_last_post_id] => awtmkzu_dashboard_quick_press_last_post_id
+            [wp_persisted_preferences] => awtmkzu_persisted_preferences
+            [wp_user_level] => awtmkzu_user_level
+            [wp_user-settings] => awtmkzu_user-settings
+            [wp_user-settings-time] => awtmkzu_user-settings-time
+        )
+
+    [include_users] => 1
+)
+
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 0% done);
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.4095687866211 MiB
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: common_progress_processor: Validation success
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker count: 3
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker progress non-cached request
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: getSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0) = List plugin files: 0% done
+2023-12-09 16:11:02 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Getting latest progress: List plugin files: 0% done with process id: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:03 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:03 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:03 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:03 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 14% done);
+2023-12-09 16:11:03 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.4120025634766 MiB
+2023-12-09 16:11:04 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:04 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:04 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:04 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 28% done);
+2023-12-09 16:11:04 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.4080352783203 MiB
+2023-12-09 16:11:05 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:05 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:05 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:05 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 42% done);
+2023-12-09 16:11:05 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.407958984375 MiB
+2023-12-09 16:11:07 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:07 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:07 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:07 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 57% done);
+2023-12-09 16:11:07 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.4082183837891 MiB
+2023-12-09 16:11:08 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:08 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:08 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:08 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 71% done);
+2023-12-09 16:11:08 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.4081420898438 MiB
+2023-12-09 16:11:09 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:09 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:09 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:09 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List plugin files: 85% done);
+2023-12-09 16:11:09 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generatePluginFilesList method: PEAK MEMORY USAGE : 4.4080657958984 MiB
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: common_progress_processor: Validation success
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker count: 4
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker progress non-cached request
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: getSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0) = List plugin files: 85% done
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Getting latest progress: List plugin files: 85% done with process id: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Archiving plugin, starting.);
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\archiver\PrimeMoverArchiver::addDirectory method: End of file is reach for file list. Closing.
+2023-12-09 16:11:10 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::optionallyExportPluginsThemes method: PEAK MEMORY USAGE : 4.4089660644531 MiB
+2023-12-09 16:11:12 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:12 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:12 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:12 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, List theme files: 0% done);
+2023-12-09 16:11:12 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generateThemesFilesList method: PEAK MEMORY USAGE : 4.4077835083008 MiB
+2023-12-09 16:11:13 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:13 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:13 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:13 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Archiving theme, starting.);
+2023-12-09 16:11:13 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\archiver\PrimeMoverArchiver::addDirectory method: End of file is reach for file list. Closing.
+2023-12-09 16:11:13 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::maybeExportThemes method: PEAK MEMORY USAGE : 4.4090118408203 MiB
+2023-12-09 16:11:14 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:14 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:14 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:15 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:15 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:15 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:15 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::zippedFolder method: PEAK MEMORY USAGE : 4.3921203613281 MiB
+2023-12-09 16:11:16 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:16 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:16 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:16 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Deleting temp folder);
+2023-12-09 16:11:16 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::deleteTemporaryFolder method: PEAK MEMORY USAGE : 4.4070587158203 MiB
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: common_progress_processor: Validation success
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker count: 5
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker progress non-cached request
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: getSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0) = Deleting temp folder
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Getting latest progress: Deleting temp folder with process id: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, Generate download URL);
+2023-12-09 16:11:17 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::generateDownloadUrl method: PEAK MEMORY USAGE : 4.4189071655273 MiB
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: export_processor_ajax: Validation success
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Export parameters cleared and validated, starting the export.
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::initializeProgressTracker method: Initializing progress tracker
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemFunctions::doPostExportProcessing method: PEAK MEMORY USAGE : 4.398323059082 MiB
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemChecks::computePerformanceStats method: export successfully completed in 30.145184993744 seconds
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemChecks::computePerformanceStats method: Average peak memory used is 4.5504062050267 MiB
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemChecks::computePerformanceStats method: Maximum peak memory used is 6.8608016967773 MiB
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemChecks::computePerformanceStats method: Actual memory values recorded: 
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemChecks::computePerformanceStats method: Array
+(
+    [0] => 4918352
+    [1] => 7194072
+    [2] => 4613216
+    [3] => 4612800
+    [4] => 4617544
+    [5] => 4623768
+    [6] => 4626320
+    [7] => 4622160
+    [8] => 4622080
+    [9] => 4622352
+    [10] => 4622272
+    [11] => 4622192
+    [12] => 4623136
+    [13] => 4621896
+    [14] => 4623184
+    [15] => 4605472
+    [16] => 4621136
+    [17] => 4633560
+    [18] => 4611976
+)
+
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Download URL defined
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::logStopTracking method: Stop tracking requested
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::logStopTracking method: Export result:
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::logStopTracking method: Array
+(
+    [multisite_export_options] => complete_export_mode
+    [prime_mover_export_targetid] => 1
+    [prime_mover_export_type] => single-site-export
+    [export_start_time] => 1702138248.8142
+    [prime_mover_is_super_db_user] => 1
+    [prime_mover_db_dump_size] => 5000
+    [original_blogid] => 1
+    [enable_db_encryption] => 
+    [temp_folder_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/
+    [target_zip_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1.wprime
+    [wprime_readme_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/wprime-readme.txt
+    [peak_memory_usage_log] => Array
+        (
+            [0] => 4918352
+            [1] => 7194072
+            [2] => 4613216
+            [3] => 4612800
+            [4] => 4617544
+            [5] => 4623768
+            [6] => 4626320
+            [7] => 4622160
+            [8] => 4622080
+            [9] => 4622352
+            [10] => 4622272
+            [11] => 4622192
+            [12] => 4623136
+            [13] => 4621896
+            [14] => 4623184
+            [15] => 4605472
+            [16] => 4621136
+            [17] => 4633560
+            [18] => 4611976
+        )
+
+    [mayberandomizedbprefix] => 1
+    [randomizedbprefixstring] => awtmkzu_
+    [completed_target_dump_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads/prime-mover-export-files/1/blog-site2Z7jEvrIqKmx55blogid_1/1.sql
+    [total_media_files] => 1501
+    [media_export] => 1
+    [encrypted_media] => 
+    [wprime_media_files_count] => 43
+    [export_system_footprint] => Array
+        (
+            [plugins] => Array
+                (
+                    [prime-mover/prime-mover.php] => 1.8.6
+                    [category-ajax-filter/category-ajax-filter.php] => 2.7.2.1
+                    [contact-form-7/wp-contact-form-7.php] => 5.8.3
+                    [duplicate-post/duplicate-post.php] => 4.5
+                    [filter-everything/filter-everything.php] => 1.7.15
+                    [post-types-order/post-types-order.php] => 2.1.1
+                    [strong-testimonials/strong-testimonials.php] => 3.1.11
+                    [svg-support/svg-support.php] => 2.5.5
+                    [prime-mover-pro/prime-mover.php] => 1.8.6
+                )
+
+            [stylesheet] => Array
+                (
+                    [blog-site] => 1.0.0
+                )
+
+            [template] => Array
+                (
+                    [blog-site] => 1.0.0
+                )
+
+            [using_child_theme] => no
+            [site_url] => blog-site.local
+            [wp_root] => C:/Users/user/Local Sites/blog-site/app/public/
+            [db_prefix] => awtmkzu_
+            [scheme] => http://
+            [upload_information_path] => C:/Users/user/Local Sites/blog-site/app/public/wp-content/uploads
+            [upload_information_url] => http://blog-site.local/wp-content/uploads
+            [prime_mover_plugin_version] => 1.8.6
+            [exported_db_tables] => Array
+                (
+                    [0] => awtmkzu_commentmeta
+                    [1] => awtmkzu_comments
+                    [2] => awtmkzu_links
+                    [3] => awtmkzu_options
+                    [4] => awtmkzu_postmeta
+                    [5] => awtmkzu_posts
+                    [6] => awtmkzu_strong_views
+                    [7] => awtmkzu_term_relationships
+                    [8] => awtmkzu_term_taxonomy
+                    [9] => awtmkzu_termmeta
+                    [10] => awtmkzu_terms
+                )
+
+            [wprime_media_files_count] => 43
+            [site_title] => blog-site
+            [source_content_url] => http://blog-site.local/wp-content
+            [source_content_dir] => C:/Users/user/Local Sites/blog-site/app/public/wp-content
+        )
+
+    [usermeta_keys_export_adjust] => Array
+        (
+            [wp_capabilities] => awtmkzu_capabilities
+            [wp_dashboard_quick_press_last_post_id] => awtmkzu_dashboard_quick_press_last_post_id
+            [wp_persisted_preferences] => awtmkzu_persisted_preferences
+            [wp_user_level] => awtmkzu_user_level
+            [wp_user-settings] => awtmkzu_user-settings
+            [wp_user-settings-time] => awtmkzu_user-settings-time
+        )
+
+    [include_users] => 1
+    [original_plugins_count] => 7
+    [plugins_to_list] => Array
+        (
+        )
+
+    [original_themes_count] => 1
+    [themes_to_list] => Array
+        (
+        )
+
+    [wprime_closed] => 1
+    [download_url] => http://blog-site.local/wp-admin/?prime_mover_download_nonce=498f31b6f5&prime_mover_export_hash=31f061ac2a768ade531bcebeb080478e12bb05a6d9a3395e6bf4c00d9978ee18&prime_mover_blogid=1
+    [generated_filename] => blog-site_12-09-2023_0411pm_export_package.wprime
+)
+
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Saving export result output:
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverSystemProcessors::primeMoverExportProcessor method: Array
+(
+    [status] => 1
+    [download_link] => <a class="button button-primary button-hero" href="http://blog-site.local/wp-admin/?prime_mover_download_nonce=498f31b6f5&prime_mover_export_hash=31f061ac2a768ade531bcebeb080478e12bb05a6d9a3395e6bf4c00d9978ee18&prime_mover_blogid=1">Download package</a>
+    [generated_filename] => blog-site_12-09-2023_0411pm_export_package.wprime
+    [prime_mover_export_downloaded] => Export completed. <a href="http://blog-site.local/wp-admin/admin.php?page=migration-panel-backup-menu" class="prime-mover-export-directory-path" title="C:\Users\user\Local Sites\blog-site\app\public\wp-content\uploads\prime-mover-export-files\">Package Saved !</a>
+)
+
+2023-12-09 16:11:18 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::updateTrackerProgress method: Update tracker progress: updateSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0, stoptracking);
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: common_progress_processor: Validation success
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker count: 6
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Tracker progress non-cached request
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: getSiteOption(4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0) = stoptracking
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Getting latest progress: stoptracking with process id: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Standard process detected: stoptracking
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonProgressProcessor method: Array
+(
+    [export_status] => stoptracking
+    [export_result] => Array
+        (
+            [status] => 1
+            [download_link] => <a class="button button-primary button-hero" href="http://blog-site.local/wp-admin/?prime_mover_download_nonce=498f31b6f5&prime_mover_export_hash=31f061ac2a768ade531bcebeb080478e12bb05a6d9a3395e6bf4c00d9978ee18&prime_mover_blogid=1">Download package</a>
+            [generated_filename] => blog-site_12-09-2023_0411pm_export_package.wprime
+            [prime_mover_export_downloaded] => Export completed. <a href="http://blog-site.local/wp-admin/admin.php?page=migration-panel-backup-menu" class="prime-mover-export-directory-path" title="C:\Users\user\Local Sites\blog-site\app\public\wp-content\uploads\prime-mover-export-files\">Package Saved !</a>
+            [process_id] => 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+        )
+
+    [download_result] => 
+)
+
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: common_shutdown_processor: Validation success
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonShutDownProcessor method: Shutdown request fully validated, ready to shutdown export process
+2023-12-09 16:11:24 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteImportId method: Deleted import ID:  4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteExportId method: Deleted export ID:  4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteExportResultId method: Deleted export result ID: 4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteImportResultId method: Deleted import result ID:  import_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteDownloadResultId method: Deleted download result ID: download_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteDownloadSizeId method: Deleted download size ID: download_size_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged import event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteDownloadTmpFileId method: Deleted download tmp file ID: download_tmp_path_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteUploadDropBoxSize method: Deleted dropbox upload size ID: dropboxupload_size_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::primeMoverDeleteUploadGdriveSize method: Deleted GDrive upload size ID: gdriveupload_size_4134766c3fbdcc02cee005db28a0ea10777fd02c301f7450e48032d0dc9c9da0
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonShutDownProcessor method: Shutdown request completed, response:
+2023-12-09 16:11:24 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverProgressHandlers::commonShutDownProcessor method: Array
+(
+    [status] => shutdown_processed
+)
+
+2023-12-09 16:11:27 => Logged common event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: download_stream_parameters: Validation success
+2023-12-09 16:11:27 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::streamDownload method: Stream download request received
+2023-12-09 16:11:27 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::validateIfUserIsAuthenticatedByCapability method: Stream download request authenticated using capability check and nonce
+2023-12-09 16:11:27 => Logged common event for blog ID 1 from Codexonics\PrimeMoverFramework\classes\PrimeMoverValidationHandlers::validateInputParameters method: download_authorization_parameters: Validation success
+2023-12-09 16:11:27 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::streamDownloadHelper method: Streaming download now
+2023-12-09 16:11:27 => Logged common event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::maybeAdjustOriginalPath method: Same script root filename, no further calculations needed..
+2023-12-09 16:11:27 => Logged common event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::maybeSymlinkDownload method: Cannot stream using symlink method - LIMITATION : Unable to create symlink to target file.
+2023-12-09 16:11:27 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::renderDownloadHelper method: Rendering download by resumable method.
+2023-12-09 16:11:27 => Logged export event for blog ID 1 from Codexonics\PrimeMoverFramework\utilities\PrimeMoverDownloadUtilities::streamDownloadHelper method: Deleted download path and option

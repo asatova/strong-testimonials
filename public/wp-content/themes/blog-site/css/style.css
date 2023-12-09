@@ -1,0 +1,43 @@
+.reviews ul.slick-dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.reviews ul.slick-dots li {
+  font-size: 0;
+  background: #EDEDF6;
+  width: 14px;
+  height: 14px;
+  border-radius: 100px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+.reviews ul.slick-dots li.slick-active {
+  background: #AD7FB7;
+}
+
+.strong-content .testimonial {
+  border: 1px solid #CECEEA;
+  border-radius: 10px;
+  padding: 40px 32px;
+  position: relative;
+  margin: 40px 15px 1px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  background-color: #fff;
+}
+.reviews .strong-content .slick-track {
+  display: flex;
+}
+.slick-list {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+

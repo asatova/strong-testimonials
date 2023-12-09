@@ -1,0 +1,515 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Ajax Filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-18 10:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: category-ajax-filter"
+
+#: admin/functions.php:321
+msgid "1. Multiple Taxonomy Selection/Filter"
+msgstr ""
+
+#: admin/functions.php:330
+msgid "10. Google Fonts List Added."
+msgstr ""
+
+#: admin/functions.php:331
+msgid "11. More Filter/Action Hooks for developers."
+msgstr ""
+
+#: admin/functions.php:332
+msgid "12. 1 On Demand Layout For new user."
+msgstr ""
+
+#: admin/functions.php:333
+msgid "13. Translation Settings for Default Strings."
+msgstr ""
+
+#: admin/functions.php:334
+msgid "14. 50+ Post Animation effects Added."
+msgstr ""
+
+#: admin/functions.php:335
+msgid "15. New Tabs Filter Layout Added."
+msgstr ""
+
+#: admin/functions.php:336
+msgid "16. Scroll to top of filter after pagination click."
+msgstr ""
+
+#: admin/functions.php:337
+msgid "17. Search Field added to search through posts."
+msgstr ""
+
+#: admin/functions.php:322
+msgid "2. Multiple Taxonomy Dropdown/Filter"
+msgstr ""
+
+#: admin/functions.php:323
+msgid "3. Select Default Category on first Page load."
+msgstr ""
+
+#: admin/functions.php:324
+msgid "4. Overwrite Layout in Your theme's folder."
+msgstr ""
+
+#: admin/functions.php:325
+msgid "5. 10 More Post Layouts."
+msgstr ""
+
+#: admin/functions.php:326
+msgid "6. Multiple Checkbox Filter Layout."
+msgstr ""
+
+#: admin/functions.php:327
+msgid "7. Support Multiple Section on same page."
+msgstr ""
+
+#: admin/functions.php:328
+msgid "8. Sort Posts Settings."
+msgstr ""
+
+#: admin/functions.php:329
+msgid "9. Load More Posts added in Pagination."
+msgstr ""
+
+#: admin/tabs/advanced.php:19
+msgid "Add Css Class"
+msgstr ""
+
+#: admin/tabs/advanced.php:8
+msgid "Add Extra Classes"
+msgstr ""
+
+#: admin/functions.php:247
+msgid "Add Extra Classes to Post"
+msgstr ""
+
+#: admin/functions.php:247 admin/tabs/advanced.php:3
+msgid "Advanced"
+msgstr ""
+
+#: admin/tabs/general.php:82
+msgid "All"
+msgstr ""
+
+#: admin/functions.php:259
+msgid "Analytics"
+msgstr ""
+
+#: admin/functions.php:241 admin/tabs/appearance.php:2
+msgid "Appearance"
+msgstr ""
+
+#: admin/tabs/appearance.php:12
+msgid "Background Color"
+msgstr ""
+
+#: admin/functions.php:338
+msgid "Buy Now"
+msgstr ""
+
+#: admin/functions.php:207
+msgid "CAF Pro Features"
+msgstr ""
+
+#: admin/tabs/typography.php:53 admin/tabs/typography.php:123
+msgid "Capitalize"
+msgstr ""
+
+#: includes/functions.php:212
+msgid "Categories"
+msgstr ""
+
+#. Name of the plugin
+msgid "Category Ajax Filter"
+msgstr ""
+
+#: admin/functions.php:259
+msgid "Check your filter analytics"
+msgstr ""
+
+#: admin/tabs/general.php:13
+msgid "Custom Post Type"
+msgstr ""
+
+#: admin/tabs/typography.php:24 admin/tabs/typography.php:96
+msgid "Default"
+msgstr ""
+
+#: admin/tabs/import.php:20
+msgid "Directly paste the exported JSON code from Demo Site"
+msgstr ""
+
+#: admin/tabs/shortcode.php:13
+msgid "Directly paste this shortcode in your page builder/classic editor"
+msgstr ""
+
+#: admin/tabs/shortcode.php:24
+msgid "Directly paste this shortcode in your page template"
+msgstr ""
+
+#: admin/functions.php:229
+msgid "Documentation"
+msgstr ""
+
+#: admin/tabs/appearance.php:103
+msgid "Empty Results Text"
+msgstr ""
+
+#: admin/tabs/advanced.php:47
+msgid "Enable Nonce"
+msgstr ""
+
+#: admin/tabs/layouts.php:21
+msgid "Enable/Disable Filter"
+msgstr ""
+
+#: admin/tabs/layouts.php:21
+msgid "Enable/Disable filter according to your needs."
+msgstr ""
+
+#: admin/tabs/appearance.php:103
+msgid ""
+"Enter specific text to show while empty result in selected category from "
+"filter."
+msgstr ""
+
+#: includes/functions.php:209
+msgid "Everything"
+msgstr ""
+
+#: admin/tabs/appearance.php:45
+msgid "Featured Image"
+msgstr ""
+
+#: admin/tabs/layouts.php:69
+msgid "Filter Color Combination"
+msgstr ""
+
+#: admin/tabs/typography.php:12
+msgid "Filter Font"
+msgstr ""
+
+#: admin/tabs/layouts.php:7
+msgid "Filter Layout"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Filter posts/custom post types by category without page reload.Easy to "
+"sort/filter and display posts on page with Ajax. It Supports Divi, Elementor "
+"and other page builders."
+msgstr ""
+
+#: admin/tabs/typography.php:8
+msgid "Filter Typography"
+msgstr ""
+
+#: admin/tabs/typography.php:19 admin/tabs/typography.php:94
+msgid "Font Family"
+msgstr ""
+
+#: admin/tabs/typography.php:60 admin/tabs/typography.php:130
+msgid "Font Size"
+msgstr ""
+
+#: admin/functions.php:235
+msgid "General"
+msgstr ""
+
+#: admin/functions.php:229 admin/tabs/general.php:3
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions.php:250
+msgid "Get Your shortcode"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://trustyplugins.com"
+msgstr ""
+
+#: includes/functions.php:206
+msgid "I want to check out "
+msgstr ""
+
+#: admin/tabs/appearance.php:61
+msgid "Image Size"
+msgstr ""
+
+#: admin/tabs/import.php:2
+msgid "Import"
+msgstr ""
+
+#: admin/functions.php:253 admin/tabs/import.php:6
+msgid "Import Layout"
+msgstr ""
+
+#: admin/tabs/import.php:20
+msgid "Import Layout From Demo Site"
+msgstr ""
+
+#: admin/functions.php:253
+msgid "Import Layout from Demo Site"
+msgstr ""
+
+#: admin/functions.php:238 admin/tabs/layouts.php:2
+msgid "Layouts"
+msgstr ""
+
+#: admin/tabs/typography.php:54 admin/tabs/typography.php:124
+msgid "Lowercase"
+msgstr ""
+
+#: admin/tabs/appearance.php:143
+msgid "New Tab"
+msgstr ""
+
+#: admin/tabs/advanced.php:47
+msgid ""
+"Now you can enable/disable nonce while performing ajax request on frontend."
+msgstr ""
+
+#: admin/tabs/appearance.php:167
+msgid "Pagination"
+msgstr ""
+
+#: admin/tabs/appearance.php:196
+msgid "Pagination Type"
+msgstr ""
+
+#: admin/tabs/general.php:18
+msgid "Post"
+msgstr ""
+
+#: admin/tabs/appearance.php:226
+msgid "Post Animation"
+msgstr ""
+
+#: admin/tabs/layouts.php:179
+msgid "Post Color Combination"
+msgstr ""
+
+#: admin/tabs/appearance.php:29
+msgid "Post Elements"
+msgstr ""
+
+#: admin/tabs/layouts.php:105
+msgid "Post Layout"
+msgstr ""
+
+#: admin/functions.php:238 admin/functions.php:241
+msgid "Post Layout, Filter Layout"
+msgstr ""
+
+#: admin/tabs/appearance.php:126
+msgid "Post Link"
+msgstr ""
+
+#: admin/tabs/appearance.php:136
+msgid "Post Link Target"
+msgstr ""
+
+#: admin/tabs/typography.php:87
+msgid "Post Title Font "
+msgstr ""
+
+#: admin/functions.php:235
+msgid "Post Type, Categories"
+msgstr ""
+
+#: admin/tabs/typography.php:83
+msgid "Post Typography"
+msgstr ""
+
+#: admin/tabs/appearance.php:178
+msgid "Posts Per Page"
+msgstr ""
+
+#: admin/tabs/layouts.php:72 admin/tabs/layouts.php:182
+msgid "Primary Color"
+msgstr ""
+
+#: admin/tabs/typography.php:134
+msgid "px"
+msgstr ""
+
+#: admin/tabs/general.php:7
+msgid "Query Options"
+msgstr ""
+
+#: admin/tabs/layouts.php:69 admin/tabs/layouts.php:179
+msgid "Reset"
+msgstr ""
+
+#: admin/tabs/appearance.php:142
+msgid "Same Tab"
+msgstr ""
+
+#: admin/tabs/layouts.php:77 admin/tabs/layouts.php:187
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/tabs/layouts.php:82 admin/tabs/layouts.php:192
+msgid "Secondary Color 2"
+msgstr ""
+
+#: admin/tabs/appearance.php:6
+msgid "Section Background"
+msgstr ""
+
+#: admin/tabs/advanced.php:36
+msgid "Security"
+msgstr ""
+
+#: admin/tabs/appearance.php:12
+msgid "Select background color for main section."
+msgstr ""
+
+#: admin/tabs/layouts.php:136
+msgid "Select Column Layout"
+msgstr ""
+
+#: admin/tabs/layouts.php:136
+msgid "Select column layout of posts for different screens."
+msgstr ""
+
+#: admin/tabs/layouts.php:113
+msgid "Select Design Layout for Post/Blog."
+msgstr ""
+
+#: admin/tabs/layouts.php:41
+msgid "Select design layout of filter."
+msgstr ""
+
+#: admin/tabs/appearance.php:136
+msgid "Select link target when any user click on post."
+msgstr ""
+
+#: admin/tabs/appearance.php:232
+msgid "Select Post Animation"
+msgstr ""
+
+#: admin/tabs/appearance.php:39
+msgid "Select Post Image"
+msgstr ""
+
+#: admin/tabs/appearance.php:178
+msgid "Select Posts Per Page according your needs.use -1 for all posts."
+msgstr ""
+
+#: admin/tabs/layouts.php:69
+msgid "Select Primary/Secondary color for filter layout."
+msgstr ""
+
+#: admin/tabs/layouts.php:179
+msgid "Select Primary/Secondary color for Post layout."
+msgstr ""
+
+#: admin/tabs/typography.php:12
+msgid "Select Properties for filter typo."
+msgstr ""
+
+#: admin/tabs/typography.php:87
+msgid "Select Properties for post title."
+msgstr ""
+
+#: admin/tabs/general.php:79
+msgid "Select Terms that you want to show on frontend. Deaflut: 5/ASC ORDER"
+msgstr ""
+
+#: admin/tabs/appearance.php:196
+msgid "Select what type of pagination you want on frontend."
+msgstr ""
+
+#: admin/tabs/layouts.php:41
+msgid "Select Your Category Filter Design"
+msgstr ""
+
+#: admin/tabs/layouts.php:113
+msgid "Select Your Post Layout Design"
+msgstr ""
+
+#: admin/tabs/general.php:14
+msgid "Select your post type to filter. Deaflut: Post"
+msgstr ""
+
+#: admin/tabs/general.php:45
+msgid "Select your taxonomy from dropdown. Deaflut: Category"
+msgstr ""
+
+#: admin/tabs/appearance.php:232
+msgid "Set Animation for posts."
+msgstr ""
+
+#: admin/tabs/appearance.php:39
+msgid "Set featured image or first image of the post."
+msgstr ""
+
+#: admin/tabs/appearance.php:61
+msgid "Set image thumbnail size."
+msgstr ""
+
+#: admin/functions.php:250 admin/tabs/shortcode.php:2
+msgid "Shortcode"
+msgstr ""
+
+#: admin/tabs/shortcode.php:24
+msgid "Shortcode For Page Template"
+msgstr ""
+
+#: admin/tabs/shortcode.php:13
+msgid "Shortcode For Page/Post"
+msgstr ""
+
+#: admin/tabs/shortcode.php:6
+msgid "Shortcode Options"
+msgstr ""
+
+#: admin/tabs/general.php:45
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/tabs/general.php:79
+msgid "Terms"
+msgstr ""
+
+#: admin/tabs/typography.php:50 admin/tabs/typography.php:120
+msgid "Text Transform"
+msgstr ""
+
+#: admin/tabs/advanced.php:19
+msgid "This class will add to every post of the results."
+msgstr ""
+
+#: admin/functions.php:244
+msgid "Title, Description Fonts"
+msgstr ""
+
+#. Author of the plugin
+msgid "Trusty Plugins"
+msgstr ""
+
+#: admin/functions.php:244 admin/tabs/typography.php:3
+msgid "Typography"
+msgstr ""
+
+#: admin/tabs/typography.php:52 admin/tabs/typography.php:122
+msgid "Uppercase"
+msgstr ""
+
+#: admin/functions.php:338
+msgid "View Demo"
+msgstr ""
